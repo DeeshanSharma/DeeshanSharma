@@ -11,7 +11,7 @@ Am an Aggressive Programmer, Clever Hacker, and Creative Designer
 
 Skills: PYTHON, GRAPHIC DESIGNING, WEB DEVELOPMENT AND HACKING
 
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning Full Stack Development
 
 <br />
 
