@@ -1,11 +1,11 @@
 
-# Hi there 👋🏻, 
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,
 
 <img src="https://raw.githubusercontent.com/DeeshanSharma/DeeshanSharma/master/Banner.png" alt="Banner Image About Deeshan Sharma">
 
-![Profile views](https://gpvc.arturio.dev/DeeshanSharma) 
+![Profile views](https://gpvc.arturio.dev/DeeshanSharma)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeeshanSharma&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeeshanSharma&show_icons=true&count_private=true)
 
 Am an Aggressive Programmer, Clever Hacker, and Creative Designer
 
@@ -22,6 +22,7 @@ Skills: PYTHON, GRAPHIC DESIGNING, WEB DEVELOPMENT AND HACKING
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/deeshan.sharma)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DeeshanSharma)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deeshansharma)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/JMQ5Nwe)  
 
 <br />
 
