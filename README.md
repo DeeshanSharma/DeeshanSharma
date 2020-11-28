@@ -6,6 +6,7 @@
 ![Profile views](https://gpvc.arturio.dev/DeeshanSharma)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeeshanSharma&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeshanSharma)
 
 Am an Aggressive Programmer, Clever Hacker, and Creative Designer
 
