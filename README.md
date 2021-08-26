@@ -1,5 +1,7 @@
 
-<h1  align=center>Hi..<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"></a>, I'm <a  href='https://www.deeshansharma.me/'  target='_blank'>Deeshan</a></h1>
+<a  href='https://www.deeshansharma.me' target='_blank'><img  src="https://readme-typing-svg.herokuapp.com?color=7C3BED&lines=Hi..%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Deeshan+Sharma" width="100%"></a>
+
+<hr />
 
 <img src="https://raw.githubusercontent.com/DeeshanSharma/DeeshanSharma/master/Banner.png" alt="Banner Image About Deeshan Sharma">
 
@@ -10,9 +12,8 @@
 
 <hr />
 
-<p align=center>Am an Aggressive Programmer, Clever Hacker, and Creative Designer<br><br>
-Skills: PYTHON, GRAPHIC DESIGNING, WEB DEVELOPMENT AND HACKING<br>
-- 🌱 I’m currently learning Full Stack Development</p>
+<p align=center>I am a Full Stack Web Developer. I love learning new stuff and really enjoy experimenting.<br>
+Skills: MERN+T, PYTHON, DOCKER, DESIGNING & MUCH MORE...</p>
 
 <br />
 
@@ -23,23 +24,23 @@ Skills: PYTHON, GRAPHIC DESIGNING, WEB DEVELOPMENT AND HACKING<br>
 </tr>
 <tr>
 <td>Languages I Use</td>
-<td><img  src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg'  alt='html5'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'  alt='css3'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'  alt='javascript'  height='30'> <img  src='https://www.vectorlogo.zone/logos/python/python-icon.svg'  alt='python'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg'  alt='c'  height='35'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg'  alt='c++'  height='35'></td>
+<td><img  src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg'  alt='html5'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'  alt='css3'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'  alt='javascript'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" height="30" /> <img  src='https://www.vectorlogo.zone/logos/python/python-icon.svg'  alt='python'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg'  alt='c'  height='35'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg'  alt='c++'  height='35'></td>
 </tr>
 <tr>
 <td>Libraries & Frameworks I Use</td>
-<td><img  src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg'  alt='react js'  height='30'> <img  src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg'  alt='node js'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg'  alt='express js'  width='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg'  alt='bootstrap'  height='30'> <img  src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg'  alt='tailwind css'  height='30'></td>
+<td><img  src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg'  alt='react js'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" height="30" /> <img  src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg'  alt='node js'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg'  alt='express js'  width='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg'  alt='bootstrap'  height='30'> <img  src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg'  alt='tailwind css'  height='30'></td>
 </tr>
 <tr>
 <td>Databases I Use</td>
-<td><img  src='https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg'  alt='sqlite'  height='30'> <img  src='https://www.vectorlogo.zone/logos/mysql/mysql-official.svg'  alt='mysql'  height='35'> <img  src='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg'  alt='mongodb'  height='35'></td>
+<td><img  src='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg'  alt='mongodb'  height='35'> <img  src='https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg'  alt='sqlite'  height='30'> <img  src='https://www.vectorlogo.zone/logos/mysql/mysql-official.svg'  alt='mysql'  height='35'></td>
 </tr>
 <tr>
 <td>Tools I Use</td>
-<td><img  src='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg'  alt='visualstudiocode'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'  alt='linux'  height='30'> <img  src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  alt='git'  height='30'></td>
+<td><img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'  alt='visualstudiocode'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'  alt='linux'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="GitHub" height="30" /> <img  src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  alt='git'  height='30'></td>
 </tr>
 <tr>
 <td>Designing Tools I Use</td>
-<td><img  src='https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png'  alt='adobephotoshop'  height='30'> <img src="https://seeklogo.com/images/A/adobe-premiere-cc-logo-2B72AFF7E6-seeklogo.com.png" alt="adobepremierepro" height="30" /></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma" height="30" /> <img  src='https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png'  alt='adobe photoshop'  height='30'> <img src="https://seeklogo.com/images/A/adobe-premiere-cc-logo-2B72AFF7E6-seeklogo.com.png" alt="adobe premiere pro" height="30" /></td>
 </tr>
 </table>
 
