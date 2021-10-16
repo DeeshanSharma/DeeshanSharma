@@ -1,5 +1,5 @@
 
-<a  href='https://www.deeshansharma.me' target='_blank'><img  src="https://readme-typing-svg.herokuapp.com?color=7C3BED&lines=Hi..%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Deeshan+Sharma" width="100%"></a>
+<img  src="https://readme-typing-svg.herokuapp.com?color=7C3BED&lines=Hi..!+I+am+Deeshan+Sharma" width="100%">
 
 <hr />
 
